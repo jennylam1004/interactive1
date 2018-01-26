@@ -3,8 +3,9 @@
   <head>
   </head>
   <body>
-    <a herf="../../index.html">back to homepage</a>
-
+    <ul>
+      <li><a herf="../../../index.html">Back to Homepage</a></li>
+    </ul>
   <p>
     <h1>&nbsp; &nbsp; &nbsp; <strong>More or less, all theorists have thought of gaze in relation to power,
     and mostly in a negative sense: the gazer strips the gazed and turns her into a powerless object,
