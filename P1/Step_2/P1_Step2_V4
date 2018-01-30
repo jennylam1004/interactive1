@@ -5,35 +5,47 @@
     <link rel="stylesheet" type="text/css"
     href="CSS/main.css"
   </head>
-  <body>
-    <ul>
-      <li><a herf="../../../index.html">Back to Homepage</a></li>
-    </ul>
+  <body id=V4>
+    <body style="background-color:black">
+    <font color="white">
+
   <p>
 
-    More or less, all theorists have thought of gaze in relation to power,
-    and mostly in a negative sense: the gazer strips the gazed and turns her into a powerless object,
-    devoid of intelligence or agency.But in the world of webpages, gaze functions differently:
-    It is more empowering. When a powerful website — say Google or Facebook — gazes at, or links to,
-    another webpage, it doesn’t just connect it — it brings it into existence; gives it life.
-    Metaphorically, without this empowering gaze, your web page doesn’t breathe.
-    No matter how many links you have placed in a webpage, unless somebody is looking at it,
-    it is actually both dead and blind; and therefore incapable of transferring power to any outside web page.
+    <p class="rotation4">More or less,</p>
+    <p class="rotation3">all theorists have thought of gaze in relation to power,</p>
+    <p class="rotation4">and mostly in a negative sense: the gazer strips the</p>
+    <p class="rotation3">gazed and turns her into a powerless object,devoid of </p>
+    <p class="rotation4">intelligence or agency.But in the world of webpages,</p>
+    <p class="rotation3">gaze functions differently:It is more empowering. When</p>
+    <p class="rotation4">a powerful website — say Google or Facebook — gazes at,</p>
+    <p class="rotation3">or links to,another webpage, it doesn’t just connect it </p>
+    <p class="rotation4">— it brings it into existence; gives it life.Metaphorically,</p>
+    <p class="rotation3">without this empowering gaze, your web page doesn’t breathe.</p>
+    <p class="rotation4">No matter how many links you have placed in a webpage,</p>
+    <p class="rotation3">unless somebody is looking at it,it is actually both dead</p>
+    <p class="rotation4">and blind; and therefore incapable of transferring power</p>
+    <p class="rotation3">to any outside web page.</p>
 
 
     <br />
-    On the other hand, the most powerful web pages are those that have many eyes upon them. Just like celebrities who draw a kind of power from the millions of human eyes gazing at them any given time,
-    web pages can capture and distribute their power through hyperlinks.
+    <p class="rotation4">On the other hand, the most powerful web pages are those </p>
+    <p class="rotation3">that have many eyes upon them.Just like celebrities who </p>
+    <p class="rotation4">draw a kind of power from the millions of human eyes gazing </p>
+    <p class="rotation3">at them any given time,web pages can capture and distribute </p>
+    <p class="rotation4">their power through hyperlinks.</p>
 
     <br />
-    But apps like Instagram are blind — or almost blind. Their gaze goes nowhere except inwards,
-    reluctant to transfer any of their vast powers to others, leading them into quiet deaths.The consequence is that web pages outside social media are dying.
+    <p class="rotation3">But apps like Instagram are blind — or almost blind. Their </p>
+    <p class="rotation4">gaze goes nowhere except inwards,reluctant to transfer any </p>
+    <p class="rotation3">of their vast powers to others, leading them into quiet deaths.</p>
+    <p class="rotation4">The consequence is that web pages outside social media are dying.</p>
 
     <br />
-    Even before I went to jail, though, the power of hyperlinks was being curbed.
-    Its biggest enemy was a philosophy that combined two of the most dominant, and most overrated,
-    values of our times: novelty and popularity, reflected by the real world dominance of young celebrities.
-    That philosophy is the Stream.
+    <p class="rotation3">Even before I went to jail, though, the power of hyperlinks was </p>
+    <p class="rotation4">being curbed.Its biggest enemy was a philosophy that combined </p>
+    <p class="rotation3">two of the most dominant, and most overrated,values of our times: </p>
+    <p class="rotation4">novelty and popularity, reflected by the real world dominance of </p>
+    <p class="rotation3">young celebrities.That philosophy is the Stream.</p>
 
 </p>
 </body>

@@ -2,15 +2,15 @@
 <html>
   <head>
     <title>P1_Step2_V1</title>
-    <link rel="stylesheet" type="text/css"
-    href="CSS/main.css"
-  </head>
-  <body>
-    <ul>
-      <li><a herf="../../../index.html">Back to Homepage</a></li>
-    </ul>
-  <p>
+    <link rel="stylesheet" href="Css/main.css" type="text/css">
 
+  </head>
+  <body id="V3">
+    <body style="background-color:black">
+    <font color="white">
+
+  <p>
+<p class="rotation2">
     More or less, all theorists have thought of gaze in relation to power,
     and mostly in a negative sense: the gazer strips the gazed and turns her into a powerless object,
     devoid of intelligence or agency.But in the world of webpages, gaze functions differently:
@@ -19,22 +19,24 @@
     Metaphorically, without this empowering gaze, your web page doesn’t breathe.
     No matter how many links you have placed in a webpage, unless somebody is looking at it,
     it is actually both dead and blind; and therefore incapable of transferring power to any outside web page.
-
-
+</p>
+<p class="rotation1"
     <br />
     On the other hand, the most powerful web pages are those that have many eyes upon them. Just like celebrities who draw a kind of power from the millions of human eyes gazing at them any given time,
     web pages can capture and distribute their power through hyperlinks.
-
-    <br />
+</p>
+<p class="rotation2"
+    <br /> <br />  <br /> <br /> <br /> <br /> <br />
     But apps like Instagram are blind — or almost blind. Their gaze goes nowhere except inwards,
     reluctant to transfer any of their vast powers to others, leading them into quiet deaths.The consequence is that web pages outside social media are dying.
-
-    <br />
+</p>
+<p class="rotation1"
+    <br /> <br /> <br /> <br /> <br />  <br />
     Even before I went to jail, though, the power of hyperlinks was being curbed.
     Its biggest enemy was a philosophy that combined two of the most dominant, and most overrated,
     values of our times: novelty and popularity, reflected by the real world dominance of young celebrities.
     That philosophy is the Stream.
-
+</p>
 </p>
 </body>
 </html>

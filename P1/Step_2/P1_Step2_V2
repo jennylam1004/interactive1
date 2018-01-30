@@ -1,39 +1,76 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>P1_Step2_V1</title>
-    <link rel="stylesheet" type="text/css"
-    href="CSS/main.css"
+    <title>P1_Step2_V2</title>
+    <link rel="stylesheet" type="text/css" href="CSS/main.css">
   </head>
   <body>
-    <ul>
-      <li><a herf="../../../index.html">Back to Homepage</a></li>
-    </ul>
-  <p>
-
-    More or less, all theorists have thought of gaze in relation to power,
-    and mostly in a negative sense: the gazer strips the gazed and turns her into a powerless object,
-    devoid of intelligence or agency.But in the world of webpages, gaze functions differently:
-    It is more empowering. When a powerful website — say Google or Facebook — gazes at, or links to,
-    another webpage, it doesn’t just connect it — it brings it into existence; gives it life.
-    Metaphorically, without this empowering gaze, your web page doesn’t breathe.
-    No matter how many links you have placed in a webpage, unless somebody is looking at it,
-    it is actually both dead and blind; and therefore incapable of transferring power to any outside web page.
 
 
+  <body id="V2">
+    <body style="background-color:black">
+    <font color="white">
+
+    <div id="var5">More or less, all theorists have thought of gaze in relation to power, </div>
+    <br /> <br />
+    <div id="var6"> and mostly in a negative sense:</div>
+    <br /> <br />
+    <div id="var7">the gazer strips the gazed and turns her into a powerless object,</div>
+    <br /> <br />
+    <div id="var5">devoid of intelligence or agency.</div>
+    <br /> <br />
+    <div id="var6">But in the world of webpages, gaze functions differently:</div>
+    <br /> <br />
+    <div id="var7">It is more empowering.</div>
+    <br /> <br />
+    <div id="var5">When a powerful website — say Google or Facebook — gazes at, or links to,</div>
+    <br /> <br />
+    <div id="var6">another webpage, it doesn’t just connect it — it brings it into existence; gives it life.</div>
+    <br /> <br />
+    <div id="var7">Metaphorically, without this empowering gaze, your web page doesn’t breathe.</div>
+    <br /> <br />
+    <div id="var5">No matter how many links you have placed in a webpage, unless somebody is looking at it,</div>
+    <br /> <br />
+    <div id="var6">it is actually both dead and blind;</div>
+    <br /> <br />
+    <div id="var7">and therefore incapable of transferring power to any outside web page.</div>
     <br />
-    On the other hand, the most powerful web pages are those that have many eyes upon them. Just like celebrities who draw a kind of power from the millions of human eyes gazing at them any given time,
-    web pages can capture and distribute their power through hyperlinks.
-
     <br />
-    But apps like Instagram are blind — or almost blind. Their gaze goes nowhere except inwards,
-    reluctant to transfer any of their vast powers to others, leading them into quiet deaths.The consequence is that web pages outside social media are dying.
-
+    <div id="var5">  On the other hand, </div>
+    <br /> <br />
+    <div id="var6">the most powerful web pages are those that have many eyes upon them. </div>
+    <br /> <br />
+    <div id="var7">Just like celebrities who draw a kind of power from the millions of human eyes gazing at them any given time,</div>
+    <br /> <br />
+    <div id="var5">web pages can capture and distribute their power through hyperlinks.</div>
     <br />
-    Even before I went to jail, though, the power of hyperlinks was being curbed.
-    Its biggest enemy was a philosophy that combined two of the most dominant, and most overrated,
-    values of our times: novelty and popularity, reflected by the real world dominance of young celebrities.
-    That philosophy is the Stream.
+    <br />
+    <div id="var6">But apps like Instagram are blind — or almost blind. </div>
+    <br /> <br />
+    <div id="var7">Their gaze goes nowhere except inwards,</div>
+    <br /> <br />
+    <div id="var5">reluctant to transfer any of their vast powers to others, </div>
+    <br /> <br />
+    <div id="var6">leading them into quiet deaths.</div>
+    <br /> <br />
+    <div id="var7">The consequence is that web pages outside social media are dying.</div>
+    <br />
+    <br />
+    <div id="var5">Even before I went to jail, though, </div>
+    <br /> <br />
+    <div id="var6">the power of hyperlinks was being curbed.</div>
+    <br /> <br />
+    <div id="var7">Its biggest enemy was a philosophy that combined two of the most dominant, </div>
+    <br /> <br />
+    <div id="var5">and most overrated,</div>
+    <br /> <br />
+    <div id="var6">values of our times: </div>
+    <br /> <br />
+    <div id="var7">novelty and popularity, </div>
+    <br /> <br />
+    <div id="var5">reflected by the real world dominance of young celebrities.</div>
+    <br /> <br />
+    <div id="var6">That philosophy is the Stream.</div>
 
 </p>
 </body>

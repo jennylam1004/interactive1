@@ -1,10 +1,92 @@
-body {
-  color: white;
-  background-color: black;
-  <h1>
-    text color
-  </h1>
-h1{
-  color: green;
+/*V1 */
+
+.div1 {
+        padding: 5px;
+        width: 200px;
+        text-align: justify;
+        margin-left: 5px;
+        font-size: 8px;
 }
-<p style="color red">
+.div2 {
+        padding: 5px;
+        width: 200px;
+        text-align: justify;
+        margin-left: 250px;
+        font-size: 8px;
+}
+.div3 {
+        padding: 0px;
+        width: 200px;
+        text-align: justify;
+        margin-left: 500px;
+        font-size: 8px;
+}
+.div4 {
+        padding: 5px;
+        width: 200px;
+        text-align: justify;
+        margin-left: 750px;
+        font-size: 8px;
+}
+.div5 {
+        padding: 5px;
+        width: 200px;
+        text-align: justify;
+        margin-left: 1000px;
+        font-size: 8px;
+}
+
+
+s
+#ver5 { margin-left: 542px;
+  text-align:left;
+
+}
+#var6 {
+  text-align: center;
+
+}
+#var7 {
+  text-align:  right;
+}
+
+.rotation1 {
+      transform: rotate(45deg);
+      text-align: justify;
+      width: 300px;
+      font-size: 35px;
+      margin: auto;
+
+}
+.rotation2 {
+    transform: rotate(-45deg);
+    text-align: justify;
+    width: 300px;
+    font-size: 35px;
+    margin: auto;
+
+}
+.rotation3 {
+  padding: 50px;
+    transform: rotate(45deg);
+    text-align: justify;
+    width: 350px;
+    font-size: 25px;
+    margin: auto;
+
+}
+.rotation4 {
+    padding: 50px;
+    transform: rotate(-45deg);
+    text-align: justify;
+    width: 350px;
+    font-size: 25px;
+    margin: auto;
+
+}
+
+.mirror{
+    position: relative;
+    transform:rotateY(180deg);
+
+}
