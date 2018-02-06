@@ -1,0 +1,176 @@
+
+*{}
+@font-face{
+  font-family: 'Teko', sans-serif;
+  font-family: 'Rammetto One', cursive;
+  font-family: 'Lobster', cursive;
+  font-family: 'Pacifico', cursive;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+#v1{
+  color: white;
+  background: linear-gradient(to bottom, #000099 0%, #00ccff 100%);
+  font-size: 75px;
+  font-family: 'Teko', sans-serif;
+}
+
+.div1 {
+  color: white;
+  background: linear-gradient(to bottom, #000099 0%, #00ccff 100%)
+}
+
+#v2{
+  font-family: 'Rammetto One';
+  font-size: 20px;
+  text-shadow: 2px 2px 8px #000000;
+}
+.mirror{
+    position: relative;
+    transform:rotateY(180deg);
+    font-family: 'Rammetto One';
+    text-shadow: 2px 2px 8px #000000;
+    background: red;
+    font-size: 20px;
+
+}
+
+.rotation3 {
+  font-family: 'Pacifico', cursive;
+  padding: 75px;
+  transform: rotate(45deg);
+  text-align: justify;
+  width: 400px;
+  font-size: 30px;
+  margin: auto;
+  color: #ccccff;
+}
+
+.rotation4 {
+  font-family: 'Ubuntu', sans-serif;
+  padding: 50px;
+  transform: rotate(-45deg);
+  text-align: justify;
+  width: 400px;
+  font-size: 30px;
+  margin: auto;
+  color: #b3d9ff;
+}
+
+
+#v4{
+  font-family: 'Lobster', cursive;
+  font-size: 175px;
+  color: #ccf5ff;
+}
+
+#v5{
+
+}
+
+.rotation5{
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+  transform: rotate(30deg);
+  width: 600px;
+  margin: auto;
+  padding: 150px;
+}
+
+.rotation6{
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+  transform: rotate(60deg);
+  width: 600px;
+  margin: auto;
+  padding: 100px;
+}
+
+.rotation7{
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+  transform: rotate(90deg);
+  width: 600px;
+  margin: auto;
+  padding: 275px;
+}
+
+.rotation8{
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+  transform: rotate(120deg);
+  width: 600px;
+  margin: auto;
+  padding: 100px;
+}
+
+.rotation9{
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+  transform: rotate(150deg);
+  width: 600px;
+  margin: auto;
+    padding: 150px;
+}
+
+.rotation10{
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+  transform: rotate(180deg);
+  width: 600px;
+  margin: auto;
+
+}
+
+.rotation11{
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+  transform: rotate(210deg);
+  width: 600px;
+  margin: auto;
+  padding: 100px;
+}
+
+.rotation12{
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+  transform: rotate(240deg);
+  width: 600px;
+  margin: auto;
+  padding: 100px;
+}
+
+.rotation13{
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+  transform: rotate(270deg);
+  width: 600px;
+  margin: auto;
+  padding: 300px;
+}
+
+.rotation14{
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+  transform: rotate(300deg);
+  width: 600px;
+  margin: auto;
+  padding: 120px;
+}
+.rotation15{
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+  transform: rotate(330deg);
+  width: 600px;
+  margin: auto;
+  padding: 150px;
+}
+
+.rotation16{
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+  transform: rotate(360deg);
+  width: 600px;
+  margin: auto;
+  padding: 10px;
+}

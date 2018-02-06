@@ -1,0 +1,34 @@
+*{}
+@font-face{
+  font-family: 'Teko', sans-serif;
+  font-family: 'Rammetto One', cursive;
+  font-family: 'Lobster', cursive;
+  font-family: 'Pacifico', cursive;
+  font-family: 'Ubuntu', sans-serif;
+}
+.rotation3 {
+  font-family: 'Pacifico', cursive;
+  padding: 75px;
+  transform: rotate(45deg);
+  text-align: justify;
+  width: 400px;
+  font-size: 30px;
+  margin: auto;
+  color: #ccccff;
+}
+
+.rotation4 {
+  font-family: 'Ubuntu', sans-serif;
+  padding: 50px;
+  transform: rotate(-45deg);
+  text-align: justify;
+  width: 400px;
+  font-size: 30px;
+  margin: auto;
+  color: red;
+}
+
+p a{
+  text-decoration: none;
+  color: Red;
+}

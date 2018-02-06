@@ -1,14 +1,18 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>P1_Step2_V1</title>
-    <link rel="stylesheet" type="text/css"
-    href="CSS/main.css"
+  <title> Step 4 </title>
+  <metla charset="utf-8" />
+  <link rel="stylesheet" type="text/css"
+    href="css/main.css" />
+  <link href="https://fonts.googleapis.com/css?family=Lobster|Pacifico|Rammetto+One" rel="stylesheet">
+  <link href="<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">">
+  <body style="background-color: black;">
   </head>
-  <body id=V4>
-    <body style="background-color:black">
-    <font color="white">
   <p>
+    <ul>
+      <li><a href="https://frilujia.github.io/interavtive1/p1/step_4/final.html"> <p class="rotation3">Previous section </p></li>
+    </ul>
     <p class="rotation4">More or less,</p>
     <p class="rotation3">all theorists have thought of gaze in relation to power,</p>
     <p class="rotation4">and mostly in a negative sense: the gazer strips the</p>
@@ -23,6 +27,7 @@
     <p class="rotation3">unless somebody is looking at it,it is actually both dead</p>
     <p class="rotation4">and blind; and therefore incapable of transferring power</p>
     <p class="rotation3">to any outside web page.</p>
+
 
     <br />
     <p class="rotation4">On the other hand, the most powerful web pages are those </p>
@@ -43,6 +48,10 @@
     <p class="rotation3">two of the most dominant, and most overrated,values of our times: </p>
     <p class="rotation4">novelty and popularity, reflected by the real world dominance of </p>
     <p class="rotation3">young celebrities.That philosophy is the Stream.</p>
+
+      <ul>
+        <li><a href="https;//sungyunkim.github.io/interactive1/p2/2-3/F1step2-3.html"> <p class="rotation4">Next section</p> </li>
+      </ul>
 
 </p>
 </body>

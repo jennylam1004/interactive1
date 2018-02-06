@@ -1,4 +1,8 @@
+@font-face{
+  font-family: 'Teko', sans-serif;
+}
 body {
   color: blue;
   background-color: lightblue;
+  font-family: 'Teko', sans-serif;
 }

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<style>
+div {
+    height: 1000px;
+    background: linear-gradient(to bottom, #000099 0%, #00ccff 100%)
+}
+</style>
+<title> P1 Step3 V1 </title>
+<body>
+<div></div>
+More or less, all theorists have thought of gaze in relation to power,
+and mostly in a negative sense: the gazer strips the gazed and turns her into a powerless object,
+devoid of intelligence or agency. But in the world of webpages, gaze functions differently:
+It is more empowering. When a powerful website — say Google or Facebook — gazes at, or links to,
+another webpage, it doesn’t just connect it — it brings it into existence; gives it life.
+Metaphorically, without this empowering gaze, your web page doesn’t breathe.
+No matter how many links you have placed in a webpage, unless somebody is looking at it,
+it is actually both dead and blind; and therefore incapable of transferring power to any outside web page.
+</body>
+</html>
