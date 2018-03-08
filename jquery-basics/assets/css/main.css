@@ -1,0 +1,51 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body { 
+	min-height: 100vh;
+	min-width: 100vw;
+}
+
+#grid {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-gap: 10px;
+}
+
+.item {
+	border: 1px solid black;
+	padding: 50px;
+	transition: all 500ms ease;
+}
+
+/* classes to hide and remove */
+
+/* scale an element down */
+
+.shrink {
+	transform: scale( .8 );
+}
+
+/* make the backgrounds colorful */
+
+body.colorful {
+	background:  linear-gradient(to right, #f85032 0%,#2b52ff 100%);
+}
+
+body.colorful .item {
+	background:  linear-gradient(135deg, #fceabb 0%,#fccd4d 93%);;
+}
+
+/* round the corners */
+
+.round {
+	border-radius: 10px;
+}
+
+/* rotates an element in 3d space */
+
+.rotate {
+	transform: perspective(400px) rotateY(180deg);
+}
