@@ -192,6 +192,16 @@ $(document).ready(function(){
 				}
 			});
 
+			// code detecting when image hits the top
+				$('img').each(function() {
+					var imageDistance = $(this).offset().top;
+
+				// this will keep firing as long as an image is 10px or less from the top of the window
+				if ( (imageDistance - 10) < scrollTop ) {
+						alert('Hi');
+						}
+					});
+
 
 	});
 
