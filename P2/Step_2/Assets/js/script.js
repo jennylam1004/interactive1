@@ -2,11 +2,6 @@ $(document).ready(function(){
 
 	// try uncommenting (deleting the // before a line) to see its effects
 
-	$('.item').addClass('shrink');
-
-	$('body').click(function() {
-		$(this).toggleClass('colorful');
-	});
 
 	$(window).on('scroll', function() {
 	    var scrollTop = $(this).scrollTop();
@@ -186,11 +181,11 @@ $(document).ready(function(){
       }
 
 
-			$('img').each(function(){
-				if($(this).position().top == 100){
-					alert('Hi');
-				}
-			});
+			// $('img').each(function(){
+			// 	if($(this).position().top == 100){
+			// 		alert('Hi');
+			// 	}
+			// });
 
 			// code detecting when image hits the top
 				$('img').each(function() {
@@ -198,7 +193,7 @@ $(document).ready(function(){
 
 				// this will keep firing as long as an image is 10px or less from the top of the window
 				if ( (imageDistance - 10) < scrollTop ) {
-						alert('Hi');
+						alert('2008');
 						}
 					});
 

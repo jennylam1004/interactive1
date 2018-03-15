@@ -1,0 +1,488 @@
+$(document).ready(function(){
+
+
+      $(".button1").click(function(){
+          $(".wrapper1").removeClass("hidethis");
+          $(".wrapper2").addClass("hidethis");
+          $(".wrapper3").addClass("hidethis");
+      });
+
+      $(".button2").click(function(){
+        $(".wrapper2").removeClass("hidethis");
+        $(".wrapper1").addClass("hidethis");
+        $(".wrapper3").addClass("hidethis");
+      });
+
+      $(".button3").click(function(){
+        $(".wrapper3").removeClass("hidethis");
+        $(".wrapper1").addClass("hidethis");
+        $(".wrapper2").addClass("hidethis");
+      });
+
+// login menu
+
+      $(".log1").click(function(){
+          $(".login1").removeClass("hidethis");
+          $(".login2").addClass("hidethis");
+          $(".login3").addClass("hidethis");
+          $(".login4").addClass("hidethis");
+          $(".login5").addClass("hidethis");
+          $(".login6").addClass("hidethis");
+      });
+
+      $(".log2").click(function(){
+          $(".login1").addClass("hidethis");
+          $(".login2").removeClass("hidethis");
+          $(".login3").addClass("hidethis");
+          $(".login4").addClass("hidethis");
+          $(".login5").addClass("hidethis");
+          $(".login6").addClass("hidethis");
+      });
+
+      $(".log3").click(function(){
+          $(".login1").addClass("hidethis");
+          $(".login2").addClass("hidethis");
+          $(".login3").removeClass("hidethis");
+          $(".login4").addClass("hidethis");
+          $(".login5").addClass("hidethis");
+          $(".login6").addClass("hidethis");
+      });
+
+      $(".log4").click(function(){
+          $(".login1").addClass("hidethis");
+          $(".login2").addClass("hidethis");
+          $(".login3").addClass("hidethis");
+          $(".login4").removeClass("hidethis");
+          $(".login5").addClass("hidethis");
+          $(".login6").addClass("hidethis");
+      });
+
+      $(".log5").click(function(){
+          $(".login1").addClass("hidethis");
+          $(".login2").addClass("hidethis");
+          $(".login3").addClass("hidethis");
+          $(".login4").addClass("hidethis");
+          $(".login5").removeClass("hidethis");
+          $(".login6").addClass("hidethis");
+      });
+
+      $(".log6").click(function(){
+          $(".login1").addClass("hidethis");
+          $(".login2").addClass("hidethis");
+          $(".login3").addClass("hidethis");
+          $(".login4").addClass("hidethis");
+          $(".login5").addClass("hidethis");
+          $(".login6").removeClass("hidethis");
+      });
+
+
+// Profile menu
+
+$(".pro1").click(function(){
+    $(".profile1").removeClass("hidethis");
+    $(".profile2").addClass("hidethis");
+    $(".profile3").addClass("hidethis");
+    $(".profile4").addClass("hidethis");
+    $(".profile5").addClass("hidethis");
+    $(".profile6").addClass("hidethis");
+    $(".profile7").addClass("hidethis");
+    $(".profile8").addClass("hidethis");
+    $(".profile9").addClass("hidethis");
+    $(".profile10").addClass("hidethis");
+    $(".profile11").addClass("hidethis");
+    $(".profile12").addClass("hidethis");
+    $(".profile13").addClass("hidethis");
+    $(".profile14").addClass("hidethis");
+    $(".profile15").addClass("hidethis");
+    
+
+});
+
+$(".pro2").click(function(){
+    $(".profile1").addClass("hidethis");
+    $(".profile2").removeClass("hidethis");
+    $(".profile3").addClass("hidethis");
+    $(".profile4").addClass("hidethis");
+    $(".profile5").addClass("hidethis");
+    $(".profile6").addClass("hidethis");
+    $(".profile7").addClass("hidethis");
+    $(".profile8").addClass("hidethis");
+    $(".profile9").addClass("hidethis");
+    $(".profile10").addClass("hidethis");
+    $(".profile11").addClass("hidethis");
+    $(".profile12").addClass("hidethis");
+    $(".profile13").addClass("hidethis");
+    $(".profile14").addClass("hidethis");
+    $(".profile15").addClass("hidethis");
+});
+
+$(".pro3").click(function(){
+    $(".profile1").addClass("hidethis");
+    $(".profile2").addClass("hidethis");
+    $(".profile3").removeClass("hidethis");
+    $(".profile4").addClass("hidethis");
+    $(".profile5").addClass("hidethis");
+    $(".profile6").addClass("hidethis");
+    $(".profile7").addClass("hidethis");
+    $(".profile8").addClass("hidethis");
+    $(".profile9").addClass("hidethis");
+    $(".profile10").addClass("hidethis");
+    $(".profile11").addClass("hidethis");
+    $(".profile12").addClass("hidethis");
+    $(".profile13").addClass("hidethis");
+    $(".profile14").addClass("hidethis");
+    $(".profile15").addClass("hidethis");
+});
+
+$(".pro4").click(function(){
+    $(".profile1").addClass("hidethis");
+    $(".profile2").addClass("hidethis");
+    $(".profile3").addClass("hidethis");
+    $(".profile4").removeClass("hidethis");
+    $(".profile5").addClass("hidethis");
+    $(".profile6").addClass("hidethis");
+    $(".profile7").addClass("hidethis");
+    $(".profile8").addClass("hidethis");
+    $(".profile9").addClass("hidethis");
+    $(".profile10").addClass("hidethis");
+    $(".profile11").addClass("hidethis");
+    $(".profile12").addClass("hidethis");
+    $(".profile13").addClass("hidethis");
+    $(".profile14").addClass("hidethis");
+    $(".profile15").addClass("hidethis");
+});
+$(".pro5").click(function(){
+    $(".profile1").addClass("hidethis");
+    $(".profile2").addClass("hidethis");
+    $(".profile3").addClass("hidethis");
+    $(".profile4").addClass("hidethis");
+    $(".profile5").removeClass("hidethis");
+    $(".profile6").addClass("hidethis");
+    $(".profile7").addClass("hidethis");
+    $(".profile8").addClass("hidethis");
+    $(".profile9").addClass("hidethis");
+    $(".profile10").addClass("hidethis");
+    $(".profile11").addClass("hidethis");
+    $(".profile12").addClass("hidethis");
+    $(".profile13").addClass("hidethis");
+    $(".profile14").addClass("hidethis");
+    $(".profile15").addClass("hidethis");
+});
+$(".pro6").click(function(){
+    $(".profile1").addClass("hidethis");
+    $(".profile2").addClass("hidethis");
+    $(".profile3").addClass("hidethis");
+    $(".profile4").addClass("hidethis");
+    $(".profile5").addClass("hidethis");
+    $(".profile6").removeClass("hidethis");
+    $(".profile7").addClass("hidethis");
+    $(".profile8").addClass("hidethis");
+    $(".profile9").addClass("hidethis");
+    $(".profile10").addClass("hidethis");
+    $(".profile11").addClass("hidethis");
+    $(".profile12").addClass("hidethis");
+    $(".profile13").addClass("hidethis");
+    $(".profile14").addClass("hidethis");
+    $(".profile15").addClass("hidethis");
+});
+$(".pro7").click(function(){
+    $(".profile1").addClass("hidethis");
+    $(".profile2").addClass("hidethis");
+    $(".profile3").addClass("hidethis");
+    $(".profile4").addClass("hidethis");
+    $(".profile5").addClass("hidethis");
+    $(".profile6").addClass("hidethis");
+    $(".profile7").removeClass("hidethis");
+    $(".profile8").addClass("hidethis");
+    $(".profile9").addClass("hidethis");
+    $(".profile10").addClass("hidethis");
+    $(".profile11").addClass("hidethis");
+    $(".profile12").addClass("hidethis");
+    $(".profile13").addClass("hidethis");
+    $(".profile14").addClass("hidethis");
+    $(".profile15").addClass("hidethis");
+});
+$(".pro8").click(function(){
+    $(".profile1").addClass("hidethis");
+    $(".profile2").addClass("hidethis");
+    $(".profile3").addClass("hidethis");
+    $(".profile4").addClass("hidethis");
+    $(".profile5").addClass("hidethis");
+    $(".profile6").addClass("hidethis");
+    $(".profile7").addClass("hidethis");
+    $(".profile8").removeClass("hidethis");
+    $(".profile9").addClass("hidethis");
+    $(".profile10").addClass("hidethis");
+    $(".profile11").addClass("hidethis");
+    $(".profile12").addClass("hidethis");
+    $(".profile13").addClass("hidethis");
+    $(".profile14").addClass("hidethis");
+    $(".profile15").addClass("hidethis");
+});
+$(".pro9").click(function(){
+    $(".profile1").addClass("hidethis");
+    $(".profile2").addClass("hidethis");
+    $(".profile3").addClass("hidethis");
+    $(".profile4").addClass("hidethis");
+    $(".profile5").addClass("hidethis");
+    $(".profile6").addClass("hidethis");
+    $(".profile7").addClass("hidethis");
+    $(".profile8").addClass("hidethis");
+    $(".profile9").removeClass("hidethis");
+    $(".profile10").addClass("hidethis");
+    $(".profile11").addClass("hidethis");
+    $(".profile12").addClass("hidethis");
+    $(".profile13").addClass("hidethis");
+    $(".profile14").addClass("hidethis");
+    $(".profile15").addClass("hidethis");
+});
+$(".pro10").click(function(){
+    $(".profile1").addClass("hidethis");
+    $(".profile2").addClass("hidethis");
+    $(".profile3").addClass("hidethis");
+    $(".profile4").addClass("hidethis");
+    $(".profile5").addClass("hidethis");
+    $(".profile6").addClass("hidethis");
+    $(".profile7").addClass("hidethis");
+    $(".profile8").addClass("hidethis");
+    $(".profile9").addClass("hidethis");
+    $(".profile10").removeClass("hidethis");
+    $(".profile11").addClass("hidethis");
+    $(".profile12").addClass("hidethis");
+    $(".profile13").addClass("hidethis");
+    $(".profile14").addClass("hidethis");
+    $(".profile15").addClass("hidethis");
+});
+$(".pro11").click(function(){
+    $(".profile1").addClass("hidethis");
+    $(".profile2").addClass("hidethis");
+    $(".profile3").addClass("hidethis");
+    $(".profile4").addClass("hidethis");
+    $(".profile5").addClass("hidethis");
+    $(".profile6").addClass("hidethis");
+    $(".profile7").addClass("hidethis");
+    $(".profile8").addClass("hidethis");
+    $(".profile9").addClass("hidethis");
+    $(".profile10").addClass("hidethis");
+    $(".profile11").removeClass("hidethis");
+    $(".profile12").addClass("hidethis");
+    $(".profile13").addClass("hidethis");
+    $(".profile14").addClass("hidethis");
+    $(".profile15").addClass("hidethis");
+});
+$(".pro12").click(function(){
+    $(".profile1").addClass("hidethis");
+    $(".profile2").addClass("hidethis");
+    $(".profile3").addClass("hidethis");
+    $(".profile4").addClass("hidethis");
+    $(".profile5").addClass("hidethis");
+    $(".profile6").addClass("hidethis");
+    $(".profile7").addClass("hidethis");
+    $(".profile8").addClass("hidethis");
+    $(".profile9").addClass("hidethis");
+    $(".profile10").addClass("hidethis");
+    $(".profile11").addClass("hidethis");
+    $(".profile12").removeClass("hidethis");
+    $(".profile13").addClass("hidethis");
+    $(".profile14").addClass("hidethis");
+    $(".profile15").addClass("hidethis");
+});
+$(".pro13").click(function(){
+    $(".profile1").addClass("hidethis");
+    $(".profile2").addClass("hidethis");
+    $(".profile3").addClass("hidethis");
+    $(".profile4").addClass("hidethis");
+    $(".profile5").addClass("hidethis");
+    $(".profile6").addClass("hidethis");
+    $(".profile7").addClass("hidethis");
+    $(".profile8").addClass("hidethis");
+    $(".profile9").addClass("hidethis");
+    $(".profile10").addClass("hidethis");
+    $(".profile11").addClass("hidethis");
+    $(".profile12").addClass("hidethis");
+    $(".profile13").removeClass("hidethis");
+    $(".profile14").addClass("hidethis");
+    $(".profile15").addClass("hidethis");
+});
+$(".pro14").click(function(){
+    $(".profile1").addClass("hidethis");
+    $(".profile2").addClass("hidethis");
+    $(".profile3").addClass("hidethis");
+    $(".profile4").addClass("hidethis");
+    $(".profile5").addClass("hidethis");
+    $(".profile6").addClass("hidethis");
+    $(".profile7").addClass("hidethis");
+    $(".profile8").addClass("hidethis");
+    $(".profile9").addClass("hidethis");
+    $(".profile10").addClass("hidethis");
+    $(".profile11").addClass("hidethis");
+    $(".profile12").addClass("hidethis");
+    $(".profile13").addClass("hidethis");
+    $(".profile14").removeClass("hidethis");
+    $(".profile15").addClass("hidethis");
+});
+$(".pro15").click(function(){
+    $(".profile1").addClass("hidethis");
+    $(".profile2").addClass("hidethis");
+    $(".profile3").addClass("hidethis");
+    $(".profile4").addClass("hidethis");
+    $(".profile5").addClass("hidethis");
+    $(".profile6").addClass("hidethis");
+    $(".profile7").addClass("hidethis");
+    $(".profile8").addClass("hidethis");
+    $(".profile9").addClass("hidethis");
+    $(".profile10").addClass("hidethis");
+    $(".profile11").addClass("hidethis");
+    $(".profile12").addClass("hidethis");
+    $(".profile13").addClass("hidethis");
+    $(".profile14").addClass("hidethis");
+    $(".profile15").removeClass("hidethis");
+});
+
+// Newsfeed topmenu
+$(".new1").click(function(){
+    $(".newsfeed1").removeClass("hidethis");
+    $(".newsfeed2").addClass("hidethis");
+    $(".newsfeed3").addClass("hidethis");
+    $(".newsfeed4").addClass("hidethis");
+    $(".newsfeed5").addClass("hidethis");
+    $(".newsfeed6").addClass("hidethis");
+    $(".newsfeed7").addClass("hidethis");
+    $(".newsfeed8").addClass("hidethis");
+    $(".newsfeed9").addClass("hidethis");
+    $(".newsfeed10").addClass("hidethis");
+    $(".newsfeed11").addClass("hidethis");
+});
+$(".new2").click(function(){
+  $(".newsfeed1").addClass("hidethis");
+  $(".newsfeed2").removeClass("hidethis");
+  $(".newsfeed3").addClass("hidethis");
+  $(".newsfeed4").addClass("hidethis");
+  $(".newsfeed5").addClass("hidethis");
+  $(".newsfeed6").addClass("hidethis");
+  $(".newsfeed7").addClass("hidethis");
+  $(".newsfeed8").addClass("hidethis");
+  $(".newsfeed9").addClass("hidethis");
+  $(".newsfeed10").addClass("hidethis");
+  $(".newsfeed11").addClass("hidethis");
+});
+$(".new3").click(function(){
+  $(".newsfeed1").addClass("hidethis");
+  $(".newsfeed2").addClass("hidethis");
+  $(".newsfeed3").removeClass("hidethis");
+  $(".newsfeed4").addClass("hidethis");
+  $(".newsfeed5").addClass("hidethis");
+  $(".newsfeed6").addClass("hidethis");
+  $(".newsfeed7").addClass("hidethis");
+  $(".newsfeed8").addClass("hidethis");
+  $(".newsfeed9").addClass("hidethis");
+  $(".newsfeed10").addClass("hidethis");
+  $(".newsfeed11").addClass("hidethis");
+});
+$(".new4").click(function(){
+  $(".newsfeed1").addClass("hidethis");
+  $(".newsfeed2").addClass("hidethis");
+  $(".newsfeed3").addClass("hidethis");
+  $(".newsfeed4").removeClass("hidethis");
+  $(".newsfeed5").addClass("hidethis");
+  $(".newsfeed6").addClass("hidethis");
+  $(".newsfeed7").addClass("hidethis");
+  $(".newsfeed8").addClass("hidethis");
+  $(".newsfeed9").addClass("hidethis");
+  $(".newsfeed10").addClass("hidethis");
+  $(".newsfeed11").addClass("hidethis");
+});
+$(".new5").click(function(){
+  $(".newsfeed1").addClass("hidethis");
+  $(".newsfeed2").addClass("hidethis");
+  $(".newsfeed3").addClass("hidethis");
+  $(".newsfeed4").addClass("hidethis");
+  $(".newsfeed5").removeClass("hidethis");
+  $(".newsfeed6").addClass("hidethis");
+  $(".newsfeed7").addClass("hidethis");
+  $(".newsfeed8").addClass("hidethis");
+  $(".newsfeed9").addClass("hidethis");
+  $(".newsfeed10").addClass("hidethis");
+  $(".newsfeed11").addClass("hidethis");
+});
+$(".new6").click(function(){
+  $(".newsfeed1").addClass("hidethis");
+  $(".newsfeed2").addClass("hidethis");
+  $(".newsfeed3").addClass("hidethis");
+  $(".newsfeed4").addClass("hidethis");
+  $(".newsfeed5").addClass("hidethis");
+  $(".newsfeed6").removeClass("hidethis");
+  $(".newsfeed7").addClass("hidethis");
+  $(".newsfeed8").addClass("hidethis");
+  $(".newsfeed9").addClass("hidethis");
+  $(".newsfeed10").addClass("hidethis");
+  $(".newsfeed11").addClass("hidethis");
+});
+$(".new7").click(function(){
+  $(".newsfeed1").addClass("hidethis");
+  $(".newsfeed2").addClass("hidethis");
+  $(".newsfeed3").addClass("hidethis");
+  $(".newsfeed4").addClass("hidethis");
+  $(".newsfeed5").addClass("hidethis");
+  $(".newsfeed6").addClass("hidethis");
+  $(".newsfeed7").removeClass("hidethis");
+  $(".newsfeed8").addClass("hidethis");
+  $(".newsfeed9").addClass("hidethis");
+  $(".newsfeed10").addClass("hidethis");
+  $(".newsfeed11").addClass("hidethis");
+});
+$(".new8").click(function(){
+  $(".newsfeed1").addClass("hidethis");
+  $(".newsfeed2").addClass("hidethis");
+  $(".newsfeed3").addClass("hidethis");
+  $(".newsfeed4").addClass("hidethis");
+  $(".newsfeed5").addClass("hidethis");
+  $(".newsfeed6").addClass("hidethis");
+  $(".newsfeed7").addClass("hidethis");
+  $(".newsfeed8").removeClass("hidethis");
+  $(".newsfeed9").addClass("hidethis");
+  $(".newsfeed10").addClass("hidethis");
+  $(".newsfeed11").addClass("hidethis");
+});
+$(".new9").click(function(){
+  $(".newsfeed1").addClass("hidethis");
+  $(".newsfeed2").addClass("hidethis");
+  $(".newsfeed3").addClass("hidethis");
+  $(".newsfeed4").addClass("hidethis");
+  $(".newsfeed5").addClass("hidethis");
+  $(".newsfeed6").addClass("hidethis");
+  $(".newsfeed7").addClass("hidethis");
+  $(".newsfeed8").addClass("hidethis");
+  $(".newsfeed9").removeClass("hidethis");
+  $(".newsfeed10").addClass("hidethis");
+  $(".newsfeed11").addClass("hidethis");
+});
+$(".new10").click(function(){
+  $(".newsfeed1").addClass("hidethis");
+  $(".newsfeed2").addClass("hidethis");
+  $(".newsfeed3").addClass("hidethis");
+  $(".newsfeed4").addClass("hidethis");
+  $(".newsfeed5").addClass("hidethis");
+  $(".newsfeed6").addClass("hidethis");
+  $(".newsfeed7").addClass("hidethis");
+  $(".newsfeed8").addClass("hidethis");
+  $(".newsfeed9").addClass("hidethis");
+  $(".newsfeed10").removeClass("hidethis");
+  $(".newsfeed11").addClass("hidethis");
+});
+$(".new11").click(function(){
+  $(".newsfeed1").addClass("hidethis");
+  $(".newsfeed2").addClass("hidethis");
+  $(".newsfeed3").addClass("hidethis");
+  $(".newsfeed4").addClass("hidethis");
+  $(".newsfeed5").addClass("hidethis");
+  $(".newsfeed6").addClass("hidethis");
+  $(".newsfeed7").addClass("hidethis");
+  $(".newsfeed8").addClass("hidethis");
+  $(".newsfeed9").addClass("hidethis");
+  $(".newsfeed10").addClass("hidethis");
+  $(".newsfeed11").removeClass("hidethis");
+});
+
+
+});

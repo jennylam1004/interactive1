@@ -1,0 +1,195 @@
+*{
+  /* margin: 0px;
+  padding: 0px; */
+}
+
+#image {
+margin: auto;
+font-family: 'Roboto', sans-serif;
+}
+
+img {
+    padding: 0;
+    /* display: block; */
+    margin: 0 auto;
+    max-height: 100%;
+    position: absolute;
+    z-index: -9999999;
+}
+
+.display{
+  width: 90%;
+
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+/* Important stuff */
+
+/* Top menu */
+
+.text{
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+
+}
+.topmenu{
+  height: 80px;
+  width: 100%;
+  background-color: #3b5998;
+}
+
+.button1, .button2, .button3 {
+  z-index:2;
+  cursor:pointer;
+  z-index: 0;
+  color: white;
+  float: left;
+  margin-top: 30px;
+  font-family: 'Roboto';
+}
+
+.button1 {margin-right:30px;}
+.button2 {margin-right:30px;}
+.button3 {margin-right:30px;}
+
+.wrapper1 {
+height:860px;
+position:absolute;
+width:100%;
+z-index:-1;
+}
+.wrapper2 {
+height:860px;
+position:absolute;
+width:100%;
+z-index:-1;
+}
+
+.wrapper3 {
+height:860px;
+position:absolute;
+width:100%;
+z-index:-1;
+}
+
+.hidethis {
+  visibility: hidden;
+}
+
+/* login menu */
+
+.years{
+  height: 100%;
+  width: 100px;
+  background-color: #3b5998;
+  position: relative;
+  float: right;
+}
+
+.year {
+  width:100px;
+  height:50px;
+  cursor:pointer;
+  float: right;
+  font-family: 'Roboto';
+  color: white;
+}
+
+.login_img{
+  padding: 0;
+  display: block;
+  margin: 0 auto;
+  width: 90%;
+  position: relative;
+  float: left;
+}
+
+.width{
+    width:100%;
+}
+
+.log1 {right:0px;}
+.log2 {right:100px;}
+.log3 {right:200px;}
+.log4 {right:300px;}
+.log5 {right:400px;}
+.log6 {right:500px;}
+
+.login1, .login2, .login3, .login4, .login5, .login6 {
+position:absolute;
+height: 1000px;
+width:100%;
+z-index:0;
+background-color: #3b5998;
+}
+
+.profile_img{
+  padding: 0;
+  /* display: block; */
+  margin: 0 auto;
+  width: 90%;
+  position: relative;
+  float: left;
+}
+
+.pro1 {right:0px;}
+.pro2 {right:100px;}
+.pro3 {right:200px;}
+.pro4 {right:300px;}
+.pro5 {right:400px;}
+.pro6 {right:500px;}
+.pro7 {right:600px;}
+.pro8 {right:700px;}
+.pro9 {right:800px;}
+.pro10 {right:900px;}
+.pro11 {right:1000px;}
+.pro12 {right:1100px;}
+.pro13 {right:1200px;}
+.pro14 {right:1300px;}
+.pro15 {right:1400px;}
+
+.profile1, .profile2, .profile3, .profile4, .profile5, .profile6, .profile7, .profile8,
+.profile9, .profile10, .profile11, .profile12, .profile13, .profile14, .profile15 {
+position: absolute;
+height: 1000px;
+width:100%;
+z-index:1;
+background-color: #3b5998;
+}
+
+
+/* Newafeed topmenu */
+.news_img{
+  padding: 0;
+  /* display: block; */
+  margin: 0 auto;
+  width: 90%;
+  position: relative;
+  float: left;
+}
+
+.new1 {right:0px;}
+.new2 {right:100px;}
+.new3 {right:200px;}
+.new4 {right:300px;}
+.new5 {right:400px;}
+.new6 {right:500px;}
+.new7 {right:600px;}
+.new8 {right:700px;}
+.new9 {right:800px;}
+.new10 {right:900px;}
+.new11 {right:1000px;}
+
+.newsfeed1, .newsfeed2, .newsfeed3, .newsfeed4, .newsfeed5, .newsfeed6, .newsfeed7, .newsfeed8,
+.newsfeed9, .newsfeed10, .newsfeed11 {
+position:absolute;
+height: 1000px;
+width:100%;
+z-index:0;
+background-color: #3b5998;
+}
